@@ -41,7 +41,7 @@
 
 ## INSTALLATION
 
-  git clone https://github.com/username/repository.git
+  git clone https://github.com/howaunn93/test-linghowaun.git
 
   cd project-directory
 
