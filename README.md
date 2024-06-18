@@ -32,6 +32,8 @@
 
   configure database connection in [.env] files:
 
+    APP_KEY=base64:YmiCAqUZnVnyBjyLCpMhp+J3as/1As+lGKmnyeVSD2o=
+
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
