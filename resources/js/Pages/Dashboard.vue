@@ -152,7 +152,7 @@ const addTodo = async () => {
 								dialogMessage.value = "Server Error";
 								console.log("API Error: ", err);
 							});
-	activeTodos.value.push(false);
+	activeTodos.value.unshift(false);
 	newTodo.value = '';
 }
 
