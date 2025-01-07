@@ -43,7 +43,7 @@
 
 ## INSTALLATION
 
-  git clone https://github.com/howaunn93/test-linghowaun.git
+  git clone https://github.com/howaunn93/todoapp_laravel_vue.git
 
   cd project-directory
 
